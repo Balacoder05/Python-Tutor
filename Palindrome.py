@@ -1,3 +1,4 @@
+#palindrome using for loop
 name=input()
 new=""
 for i in name:
