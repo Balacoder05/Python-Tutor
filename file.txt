@@ -1,0 +1,2 @@
+Wlcome to python File handling !
+This is a new file.
